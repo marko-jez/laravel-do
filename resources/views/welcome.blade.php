@@ -11,7 +11,7 @@
     
         <h1>Welcome vjezba</h1>
 
-        <p>Hope you will enjoy time on this website</p>
+        <p>Hope you will enjoy time on this website today</p>
             
     </body>
 </html>
