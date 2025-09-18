@@ -14,6 +14,8 @@
         <p>Hope you will enjoy time on this website today</p>
 
         <p style="color:blue">Great to see you here!</p>
+
+        <p>Pozdrav još jednom</p>
             
     </body>
 </html>
