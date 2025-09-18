@@ -15,7 +15,7 @@
 
         <p style="color:blue">Great to see you here!</p>
 
-        <p>Pozdrav još jednom</p>
+        <p style="color:darkgreen">Ajme napokon da radi sve</p>
             
     </body>
 </html>
